@@ -3,9 +3,10 @@
 Simple and fast ORM for python.
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/maclinchy/netpy/blob/master/LICENSE)
+
 ## Installation
 
-There is two ways to install:
+There are two ways to install:
 
 - **Install OreoPy from PyPI (recommended):**
 ```sh
