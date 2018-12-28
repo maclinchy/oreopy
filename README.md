@@ -10,7 +10,7 @@ There are two ways to install:
 
 - **Install OreoPy from PyPI (recommended):**
 ```sh
-sudo pip install orepy
+sudo pip install oreopy
 ```
 
 - **Install OreoPy from GitHub source:**
@@ -23,7 +23,7 @@ sudo python3 setup.py install
 ------------------
 ## Getting started
 
-Let's create file called `models.py`
+Let's create a file called `models.py`
 ```python3
 from oreopy.models import base
 from oreopy.fields import IntegerField, TextField
