@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='oreopy',
-      version='0.0.4',
+      version='0.0.5',
       author='Alexey Makridenko',
       author_email='makridenko.a@yandex.ru',
       description="Simple and fast ORM for python",
