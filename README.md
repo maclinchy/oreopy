@@ -10,7 +10,7 @@ There are two ways to install:
 
 - **Install OreoPy from PyPI (recommended):**
 ```sh
-sudo pip install oreopy
+pip install oreopy
 ```
 
 - **Install OreoPy from GitHub source:**
